@@ -1,5 +1,13 @@
+import requests
+import pandas as pd
 
-gh = "https://github.com/OldManBrook/TfLJamCams"
-base1 = "https://api.tfl.gov.uk/"
-thisonekrishan = "https://api.tfl.gov.uk/Place/Type/JamCam/"
+def getData():
+    request = requests.get("https://api.tfl.gov.uk/Place/Type/JamCam/").json()
+    df = pd.DataFrame(request)
+    return df
 
+
+
+df = getData()
+
+df.to_csv("test.csv")
