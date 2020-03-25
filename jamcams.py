@@ -6,8 +6,6 @@ def getData():
     df = pd.DataFrame(request)
     return df
 
-
-
 df = getData()
 
 df.to_csv("test.csv")

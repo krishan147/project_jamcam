@@ -1,0 +1,610 @@
+,address,adtype,latitude,longitude,panel_id,postcode,site_id
+0,33 Rectory Road Stoke Newington,Billboards,51.55796,-0.069371,130366,E12 6JB,95669.0
+0,278 Stamford Hill Cnr Olinda Road Stamford Hill,Billboards,51.575329,-0.072048,130581,N16 6TY,97233.0
+0,154 Canonbury Road Highbury Corner,Billboards,51.545908,-0.102026,130957,N1 2UP,97429.0
+0,18 Dartmouth Park  Tufnell Park,Billboards,51.557993,-0.139153,130980,NW5 1HL,97442.0
+0,Temple Mills Lane Cnr Leyton Road Opp Drapers Football Ground,Billboards,51.550685,-0.005101,131454,E18 2QN,97647.0
+0,Temple Mills Lane Cnr Leyton Road Opp Drapers Football Ground,Billboards,51.550685,-0.005101,131455,E18 2QN,97647.0
+0,84 Borough Road Nr Southwark Bridge Rd Borough,Billboards,51.498928,-0.099295,131593,SE1 1DN,97714.0
+0,Rotherhithe New Road Cnr Ilderton Road S. Bermondsey,Billboards,51.48839,-0.057701,131641,SE16 2RD,97729.0
+0,"12 Westminster Bridge Road, The Flowers Of Forest Ph",Billboards,51.49815,-0.106776,131661,SE1 7QX,97747.0
+0,"469 Bethnal Green Rd, Cnr Hollybush Gardens Bethnal Grn",Billboards,51.527475,-0.056951,131761,E2 9QH,97794.0
+0,East India Dock Road Cnr Robin Hood Lane All Saints Poplar,Billboards,51.511172,-0.009352,131792,E14 6EU,97808.0
+0,"Billingsgate Market, Aspen Way/Trafalgar Way, London",Billboards,51.507078,-0.015804,131825,E14 5ST,97819.0
+0,"Billingsgate Market, Aspen Way/Trafalgar Way, London",Billboards,51.507078,-0.015804,131826,E14 5ST,97819.0
+0,Burdett Road Jnc Midlothian Rd nr Mile End Park (Ex Park Inn) Mile End,Billboards,51.521355,-0.033593,131890,E3 4SE,97853.0
+0,Burdett Road Jnc Midlothian Rd nr Mile End Park (Ex Park Inn) Mile End,Billboards,51.521355,-0.033593,131891,E3 4SE,97853.0
+0,26 Evelyn Street Cnr Alloa Rd Nr Deptford Park,Billboards,51.488822,-0.040544,143080,SE8 5DG,102487.0
+0,o/s 55 New Oxford St Camden,Phoneboxes,51.51673,-0.127665,146766,WC1A 1BS,103886.0
+0,o/s 111 High Holborn Camden,Phoneboxes,51.517751,-0.119519,146767,WC1V 6JS,103887.0
+0,o/s 111 High Holborn Camden,Phoneboxes,51.517758,-0.119522,146768,WC1V 6JS,103888.0
+0,o/s 29 Tottenham Court Rd Camden,Phoneboxes,51.518263,-0.132014,146769,W1T 1BU,103889.0
+0,o/s 38 Tottenham Crt Rd Camden,Phoneboxes,51.518838,-0.132689,146771,W1T 1BT,103891.0
+0,o/s 197 Kentish Town Rd Camden,Phoneboxes,51.546759,-0.141835,146772,NW5 2JU,103892.0
+0,Jnc Nrth Gower Rd.Euston Rd Camden,Phoneboxes,51.525754,-0.136256,146780,NW1 2LU,103900.0
+0,o/s 114 Tottenham Court Rd Camden,Phoneboxes,51.523437,-0.137168,146781,W1T 5AH,103901.0
+0,Adj 1 Eversholt St Camden,Phoneboxes,51.527946,-0.131549,146783,NW1 2FL,103903.0
+0,o/s 124 Robert St Camden,Phoneboxes,51.528581,-0.143664,146784,NW1 3QR,103904.0
+0,o/s 100 Euston Rd Camden,Phoneboxes,51.528564,-0.127995,146785,NW1 2AJ,103905.0
+0,o/s 23 Tottenham Crt Rd Camden,Phoneboxes,51.517997,-0.131793,146788,W1T 1BW,103908.0
+0,o/s 20 Bedford Way Camden,Phoneboxes,51.52314,-0.127856,146795,WC1H 0AL,103915.0
+0,"Torrington Place, nr Gower St Camden",Phoneboxes,51.522568,-0.13218,146796,WC1E 6EG,103916.0
+0,o/s 104 Tott.Crt Rd Camden,Phoneboxes,51.52273,-0.136508,146799,W1A 3AW,103919.0
+0,o/s 104 Tott. Crt Rd Camden,Phoneboxes,51.522733,-0.136503,146801,W1A 3AW,103921.0
+0,opp 33 Store St Camden,Phoneboxes,51.519974,-0.131353,146803,WC1E 7DE,103923.0
+0,o/s 219 Canfield Gdns Camden,Phoneboxes,51.546844,-0.179941,146807,NW3 6LB,103927.0
+0,o/s 93-95 Fairfax Rd Camden,Phoneboxes,51.542031,-0.179834,146808,NW6 4DY,103928.0
+0,o/s 245 Tottenham Crt Rd Camden,Phoneboxes,51.518145,-0.131772,146810,W1T 7QT,103930.0
+0,o/s 245 Tottenham Crt Rd Camden,Phoneboxes,51.518139,-0.131774,146811,W1T 7QT,103931.0
+0,o/s 40 New Oxford St Camden,Phoneboxes,51.517134,-0.125793,146813,WC1A 1EP,103933.0
+0,o/s 23 Tottenham Crt Rd Camden,Phoneboxes,51.51799,-0.131782,146814,W1T 1BW,103934.0
+0,o/s 1 Malet St Camden,Phoneboxes,51.522333,-0.131149,146815,WC1E 7HX,103935.0
+0,2 Harben Parade Swiss Cottage Finchley Road,Phoneboxes,51.545061,-0.177015,146816,NW3 6JP,103936.0
+0,"opp Chalk Farm Parade Of Shps, Adelaide Road",Phoneboxes,51.54397,-0.153664,146817,NW3 2BP,103937.0
+0,o/s 255 Finchley Rd Camden,Phoneboxes,51.547983,-0.18073,146821,NW3 6LU,103941.0
+0,o/s 255 Finchley Rd Camden,Phoneboxes,51.547986,-0.18073,146822,NW3 6LU,103942.0
+0,o/s 72-78 Lambs Conduit St Camden,Phoneboxes,51.522496,-0.118935,146823,WC1N 3LT,103943.0
+0,o/s 7-9 Kingsland High St Hackney,Phoneboxes,51.546577,-0.07577,146956,E8 2JS,104076.0
+0,o/s 368 Kingsland Rd Hackney,Phoneboxes,51.541423,-0.075878,146959,E8 4DA,104079.0
+0,o/s 36-38 Dalston Ln Hackney,Phoneboxes,51.546207,-0.072353,146960,E8 3AZ,104080.0
+0,o/s 26-28 High St Hackney,Phoneboxes,51.557951,-0.074359,146961,N16 7PL,104081.0
+0,o/s 482-484 Kingsland Rd Hackney,Phoneboxes,51.543358,-0.076046,146963,E8 4AE,104083.0
+0,o/s 222 High St Hackney,Phoneboxes,51.56236,-0.073707,146964,N16 0LN,104084.0
+0,o/s 416 Kingsland Rd Hackney,Phoneboxes,51.541558,-0.076105,146965,E8 4AA,104085.0
+0,o/s 26 Stoke Newington Chur Hackney,Phoneboxes,51.562064,-0.074906,146968,N16 0NX,104088.0
+0,o/s 233 Kingsland Rd Hackney,Phoneboxes,51.534843,-0.077081,146970,E2 8AN,104090.0
+0,o/s 131 Stoke Newington Rd Hackney,Phoneboxes,51.556097,-0.074623,146971,N16 8BT,104091.0
+0,o/s 142a Upper Clapton Rd Hackney,Phoneboxes,51.564004,-0.05933,146973,E5 9JZ,104093.0
+0,o/s 26 Stamford Hill Hackney,Phoneboxes,51.56479,-0.072996,146975,N16 6XZ,104095.0
+0,o/s 63-65 Old Hill St Hackney,Phoneboxes,51.569448,-0.064703,146976,N16 6LU,104096.0
+0,o/s 52 Well St Hackney,Phoneboxes,51.539534,-0.056359,146981,E9 7PX,104101.0
+0,o/s 30c King Edwards Rd Hackney,Phoneboxes,51.537835,-0.054601,146982,E9 7SF,104102.0
+0,opp 180 Cassland Rd Hackney,Phoneboxes,51.544098,-0.038098,146985,E9 5BU,104105.0
+0,opp 69 Amhurst Pk Hackney,Phoneboxes,51.574891,-0.081448,146989,N16 5DH,104109.0
+0,o/s 153 Clapton Common Hackney,Phoneboxes,51.573121,-0.071331,146990,E5 9AE,104110.0
+0,o/s 82 Stamford Hill Hackney,Phoneboxes,51.570262,-0.072554,146994,N16 6QP,104114.0
+0,opp 118 Northwold Rd Hackney,Phoneboxes,51.56259,-0.061004,146997,E5 8RA,104117.0
+0,o/s 10 Manor Parad Hackney,Phoneboxes,51.565518,-0.074083,146999,N16 5SG,104119.0
+0,o/s 113 Upper Clapton Rd Hackney,Phoneboxes,51.564506,-0.05988,147002,E5 9BU,104122.0
+0,o/s 75-77 Amhurst Rd Hackney,Phoneboxes,51.549608,-0.061377,147003,E8 2AH,104123.0
+0,o/s 19 Chatsworth Rd Hackney,Phoneboxes,51.553548,-0.045045,147004,E5 0LH,104124.0
+0,o/s 112a Lower Clapton Rd Hackney,Phoneboxes,51.553743,-0.053518,147005,E5 0QR,104125.0
+0,o/s 56 Evering Rd Hackney,Phoneboxes,51.558783,-0.066739,147008,N16 7SR,104128.0
+0,o/s 63 Chatsworth Rd Hackney,Phoneboxes,51.552251,-0.044283,147010,E5 0LH,104130.0
+0,o/s 153 Stroud Green Rd Haringay,Phoneboxes,51.569921,-0.11394,147056,N4 3PZ,104176.0
+0,o/s 222 Seven Sisters Rd Haringey,Phoneboxes,51.562708,-0.108792,147057,N4 3NX,104177.0
+0,o/s 89 Stroud Green Rd Haringay,Phoneboxes,51.568654,-0.111086,147058,N4 3PX,104178.0
+0,o/s 48 Grand Parade Green Lanes Haringey,Phoneboxes,51.579176,-0.098962,147061,N4 1AG,104181.0
+0,o/s 1 Crouch End Hill Haringay,Phoneboxes,51.578056,-0.124068,147063,N8 8DL,104183.0
+0,o/s 15-17 Ferme Park Rd Haringay,Phoneboxes,51.574056,-0.112782,147065,N4 4DS,104185.0
+0,o/s 184 Tottenham Ln Haringey,Phoneboxes,51.582003,-0.120592,147067,N8 8SG,104187.0
+0,o/s 158 Tottenham High Rd Sth Tott Station Haringe,Phoneboxes,51.580743,-0.072522,147073,N15 6UJ,104193.0
+0,o/s 251 Upper St Islington,Phoneboxes,51.545509,-0.103313,147190,N1 1RU,104310.0
+0,o/s 55 Highbury Pk Islington,Phoneboxes,51.55508,-0.097917,147192,N5 1TH,104312.0
+0,o/s 200 Essex Rd Islington,Phoneboxes,51.540739,-0.09532,147193,N1 3AP,104313.0
+0,o/s 49 Upper St Islington,Phoneboxes,51.535097,-0.104476,147194,N1 0PN,104314.0
+0,o/s 147 Essex Rd Islington,Phoneboxes,51.539909,-0.097193,147195,N1 2SN,104315.0
+0,o/s 31 Downham Rd Islington,Phoneboxes,51.539035,-0.078358,147196,N1 5AA,104316.0
+0,o/s 564-566 Holloway Rd Islington,Phoneboxes,51.559879,-0.122399,147197,N7 6JP,104317.0
+0,o/s 482 Holloway Rd Islington,Phoneboxes,51.558462,-0.120214,147199,N7 6HY,104319.0
+0,o/s 76a-78 Highbury Pk Islington,Phoneboxes,51.557213,-0.097997,147203,N5 2XE,104323.0
+0,o/s 426-432 Essex Rd Islington,Phoneboxes,51.546183,-0.08722,147204,N1 3QP,104324.0
+0,o/s 314 St Pauls Rd Islington,Phoneboxes,51.546193,-0.102361,147205,N1 2LF,104325.0
+0,o/s 97a Newington Green Rd Islington,Phoneboxes,51.549825,-0.087225,147208,N1 4QX,104328.0
+0,o/s 179 Holloway Rd Islington,Phoneboxes,51.550093,-0.109059,147212,N7 8LX,104332.0
+0,o/s 179 Holloway Rd Islington,Phoneboxes,51.550096,-0.109059,147213,N7 8LX,104333.0
+0,o/s 93 Holloway Rd Islington,Phoneboxes,51.547818,-0.106175,147215,N7 8LT,104335.0
+0,N/O 2 Parkhurst Rd Islington,Phoneboxes,51.554649,-0.122856,147217,N7 0NS,104337.0
+0,o/s 320 Holloway Rd Islington,Phoneboxes,51.554855,-0.114946,147221,N7 6NJ,104341.0
+0,o/s 436 Holloway Rd Islington,Phoneboxes,51.557348,-0.118543,147224,N7 6QA,104344.0
+0,o/s 63 Pitfield St Islington,Phoneboxes,51.529171,-0.083441,147226,N1 6BU,104346.0
+0,o/s 117 Hoxton St Islington,Phoneboxes,51.529779,-0.080211,147227,N1 6QG,104347.0
+0,o/s 51- 53 Copenhagen St Islington,Phoneboxes,51.536272,-0.112205,147229,N1 0JH,104349.0
+0,o/s 190 Caledonian Rd Islington,Phoneboxes,51.536483,-0.116598,147230,N1 0SQ,104350.0
+0,o/s 251 Caledonian Rd Islington,Phoneboxes,51.539174,-0.116816,147231,N1 1ED,104351.0
+0,o/s 35 Cromwell Rd Kensington & Chelsea,Phoneboxes,51.499781,-0.177985,147291,SW7 2DG,104411.0
+0,o/s 59 Sloane Ave Kensington & Chelsea,Phoneboxes,51.492022,-0.165229,147301,SW3 3DH,104421.0
+0,o/s 160 Loughborough Rd Lambeth,Phoneboxes,51.466633,-0.105302,147331,SW9 7LL,104451.0
+0,o/s 274-280 Brixton Rd Lambeth,Phoneboxes,51.470681,-0.112046,147332,SW9 6AG,104452.0
+0,Clapham Rd/Lingham St Lambeth,Phoneboxes,51.471254,-0.123686,147340,SW9 9AE,104460.0
+0,o/s 119 Kennington Rd Lambeth,Phoneboxes,51.499349,-0.112,147342,SE1 7BL,104462.0
+0,o/s 14 Clapham High St Lambeth,Phoneboxes,51.464911,-0.130398,147344,SW4 7UT,104464.0
+0,Clapham Rd/Lingham St Lambeth,Phoneboxes,51.471254,-0.123686,147345,SW9 9AE,104465.0
+0,o/s 18 Clapham Rd Lambeth,Phoneboxes,51.480732,-0.113532,147357,SW9 0JG,104477.0
+0,o/s 119 South Lambeth Rd Lambeth,Phoneboxes,51.479075,-0.123523,147358,SW8 1XA,104478.0
+0,o/s 6 Baylis Rd Lambeth,Phoneboxes,51.506392,-0.111564,147360,SE1 7AA,104480.0
+0,Ridgway Rd/Loughborough Rd Lamberth,Phoneboxes,51.466026,-0.103355,147365,SW9 7EX,104485.0
+0,o/s 465 New Cross Rd Lewisham,Phoneboxes,51.475435,-0.028894,147419,SE14 6TP,104539.0
+0,o/s 304-306 New Cross Rd Lewisham,Phoneboxes,51.475541,-0.037473,147420,SE14 6AF,104540.0
+0,o/s 258 Evelyn St Lewisham,Phoneboxes,51.48651,-0.035593,147422,SE8 5BZ,104542.0
+0,o/s 4 Memorial Ave Newham,Phoneboxes,51.527766,0.005536,147436,E15 3BT,104556.0
+0,West Ham Ln/Church St Newham,Phoneboxes,51.536054,0.00744,147476,E15 3JB,104596.0
+0,opp 27 Dockhead Southwark,Phoneboxes,51.500154,-0.072275,147511,SE1 2BS,104631.0
+0,o/s 189 Old Kent Rd Southwark,Phoneboxes,51.490944,-0.081159,147515,SE1 5NA,104635.0
+0,o/s 183 Walworth Rd Southwark,Phoneboxes,51.48992,-0.096702,147516,SE17 1RW,104636.0
+0,o/s 38 Camberwell Church St Southwark,Phoneboxes,51.473897,-0.08969,147519,SE5 8QZ,104639.0
+0,o/s 40 Harper Rd Southwark,Phoneboxes,51.496434,-0.093593,147520,SE1 6AD,104640.0
+0,o/s 105 Abbey St Southwark,Phoneboxes,51.497833,-0.076255,147522,SE1 3NP,104642.0
+0,o/s 40 Harper Rd Southwark,Phoneboxes,51.496427,-0.093631,147524,SE1 6AD,104644.0
+0,o/s 54 East Dulwich Rd Southwark,Phoneboxes,51.461805,-0.070185,147525,SE22 9AX,104645.0
+0,o/s 1 Camberwell Rd Southwark,Phoneboxes,51.484296,-0.09371,147526,SE5 0EZ,104646.0
+0,o/s 376-378 Walworth Rd Southwark,Phoneboxes,51.484712,-0.093837,147527,SE17 2NG,104647.0
+0,o/s 111 East St Southwark,Phoneboxes,51.489261,-0.090449,147530,SE17 2SB,104650.0
+0,o/s 299 Walworth Rd Southwark,Phoneboxes,51.487215,-0.09513,147534,SE17 2TG,104654.0
+0,Quorn Rd/Dog Kennel Hill Southwark,Phoneboxes,51.462236,-0.080749,147535,SE22 8BH,104655.0
+0,o/s 218-220 Whitechapel Rd Tower Hamlets,Phoneboxes,51.519517,-0.057496,147560,E1 1BJ,104680.0
+0,o/s 61 Brady St Tower Hamlets,Phoneboxes,51.522788,-0.060393,147562,E1 5DW,104682.0
+0,o/s 39-41 Commercial St Tower Hamlets,Phoneboxes,51.516792,-0.07327,147563,E1 6BD,104683.0
+0,o/s 218-220 Whitechapel Rd Tower Hamlets,Phoneboxes,51.519544,-0.057341,147566,E1 1BJ,104686.0
+0,opp 216a Whitechapel Rd Tower Hamlets,Phoneboxes,51.519766,-0.057507,147567,E1 1BJ,104687.0
+0,o/s 39-41 Commercial St Tower Hamlets,Phoneboxes,51.516794,-0.07327,147568,E1 6BD,104688.0
+0,o/s 230 Whitechapel Rd Tower Hamlets,Phoneboxes,51.519621,-0.057008,147569,E1 1BJ,104689.0
+0,o/s 213-221 Mile End Rd Tower Hamlets,Phoneboxes,51.521797,-0.046982,147571,E1 4AA,104691.0
+0,o/s 78 Grundy St Tower Hamlets,Phoneboxes,51.512176,-0.015952,147573,E14 6DR,104693.0
+0,o/s 44-46 Aberfeldy St Tower Hamlets,Phoneboxes,51.513486,-0.005541,147574,E14 0NU,104694.0
+0,Manchester Rd/Pier St Tower Hamlets,Phoneboxes,51.492293,-0.006464,147575,E14 9DP,104695.0
+0,o/s 237 Bethnal Green Rd Tower Hamlets,Phoneboxes,51.526232,-0.06711,147580,E2 6AB,104700.0
+0,East Ferry Rd/Glengall Grv Tower Hamlets,Phoneboxes,51.495878,-0.014014,147592,E14 3NB,104712.0
+0,nr 122 East India Dock Rd Tower Hamlets,Phoneboxes,51.510716,-0.020264,147593,E14 6JJ,104713.0
+0,Salmon Ln/Rhodeswell Rd Tower Hamlets,Phoneboxes,51.514143,-0.033737,147601,E14 7PH,104721.0
+0,O/S 144 Camden High St Camden,Phoneboxes,51.538361,-0.142036,148342,NW1 0NE,105436.0
+0,o/s 114-115 Tottenham Crt Rd Jnt Grafton Way,Phoneboxes,51.523427,-0.137161,148344,W1T 5AH,105438.0
+0,nr 216 Haggerston Rd Hackney,Phoneboxes,51.5379,-0.07198,148353,E8 4JA,105447.0
+0,o/s 93-95 Dunsmure Rd Hackney,Phoneboxes,51.5705,-0.07877,148355,N16 5HT,105449.0
+0,o/s 181 Commercial Rd Tower Hamlets,Phoneboxes,51.514809,-0.060664,148364,E1 2DA,105458.0
+0,Opp 115 Junction Rd Haringay,Phoneboxes,51.56217,-0.136506,148658,N19 5PX,105575.0
+0,o/s 510 Hornsey Rd Haringay,Phoneboxes,51.569224,-0.123816,148661,N19 3QW,105578.0
+0,o/s 30 Rye Lane,Phoneboxes,51.472098,-0.069823,148672,SE15 5BS,105585.0
+0,o/s 51-57 Rye Lane,Phoneboxes,51.472429,-0.069845,148675,SE15 5BY,105588.0
+0,Opp 103 Redchurch St Tower Hamlets,Phoneboxes,51.524689,-0.072524,148679,E2 7DL,104702.0
+0,o/s 26 Bedford Way Camden,Phoneboxes,51.52414,-0.128959,148712,WC1H 0AP,103929.0
+0,o/s 121-123 Kingsway Camden,Phoneboxes,51.517267,-0.120407,149497,WC2B 6PA,105986.0
+0,o/s 121-123 Kingsway Camden,Phoneboxes,51.517288,-0.120404,149580,WC2B 6PA,106047.0
+0,o/s 137-139 Well St Hackney,Phoneboxes,51.542109,-0.048949,149803,E9 7LJ,105448.0
+0,o/s 78 Broadway Stratford,Phoneboxes,51.54223,0.002803,150109,E15 1NG,106227.0
+0,o/s 5 Wincott Parade Lambeth,Phoneboxes,51.497088,-0.112324,150375,SE11 6SR,108277.0
+0,Opp 28 Southampton Row Camden,Phoneboxes,51.518987,-0.120777,151136,WC1B 4AP,109125.0
+0,o/s 334 High Holborn Camden,Phoneboxes,51.51812,-0.111623,151137,WC1V 7PE,109126.0
+0,Opp 28 Southampton Row Camden,Phoneboxes,51.518993,-0.120754,151157,WC1B 4AP,109142.0
+0,o/s 38 Tottenham Crt Rd Camden,Phoneboxes,51.518838,-0.132689,151688,W1T 1BT,103891.0
+0,o/s 125-127 Finchley Rd Camden,Phoneboxes,51.543369,-0.175245,153635,NW3 6HY,103938.0
+0,o/s 125-127 Finchley Rd Camden,Phoneboxes,51.543315,-0.175223,153636,NW3 6HY,105439.0
+0,o/s 421 Brixton Rd Lambeth,Phoneboxes,51.462876,-0.114931,154046,SW9 8HE,104457.0
+0,East India Dock Road Cnr Robin Hood Lane All Saints Poplar,Billboards,51.511172,-0.009352,156697,E14 6EU,97808.0
+0,East India Dock Road Cnr Robin Hood Lane All Saints Poplar,Billboards,51.511172,-0.009352,156698,E14 6EU,97808.0
+0,o/s 175-177 Cannon St Rd Tower Hamlets,Phoneboxes,51.514166,-0.061815,156764,E1 2LX,113326.0
+0,33 Rectory Road Stoke Newington,Billboards,51.55796,-0.069371,157029,E12 6JB,95669.0
+0,o/s 27 Marylebone Road,Phoneboxes,51.522493,-0.154841,157840,NW1 5JS,113795.0
+0,Billingsgate Market Aspen Way/Trafalgalgar W Halo,Billboards,51.507074,-0.016139,158190,E14 5ST,97819.0
+0,Wick Road Adj A12 Slip,Billboards,51.544544,-0.030922,158686,E9 5EG,114208.0
+0,Lucas Arms 245A Grays Inn Road London,Pubs & Bars - Digital,51.528425,-0.119586,160109,WC1X 8QY,115411.0
+0,44 Lower Clapton Road,Billboards,51.551417,-0.051526,161456,E5 0RN,117162.0
+0,"Brook House, 347 High Road Leyton Cnr Buckingham Rd",Billboards,51.560308,-0.009863,161522,E10 5NA,97889.0
+0,29-35 Upper Clapton Rd,Billboards,51.560039,-0.056842,161628,E5 8AY,117289.0
+0,79a Mare St,Billboards,51.537102,-0.057069,161629,E8 4RG,117290.0
+0,Westferry Dlr Stn Adj 82 West India Dock Rd,Billboards,51.509404,-0.026356,161645,E14 8SD,117303.0
+0,23/25 West India Dock Rd C/O Rugg Canary Wharf,Billboards,51.510538,-0.026408,161648,E14 8EZ,117306.0
+0,23/25 West India Dock Rd C/O Rugg Canary Wharf,Billboards,51.510538,-0.026408,161649,E14 8EZ,117306.0
+0,City of Quebec 12 Old Quebec Street London,Pubs & Bars - Digital,51.513917,-0.157886,162263,W1H 7AF,117475.0
+0,"High Road, South Tottenham Adj Bridge",Billboards,51.582319,-0.072419,162431,N15 6UJ,117599.0
+0,"Annesley Walk Jct Highgate Hill, Archway Haringey",Phoneboxes,51.566231,-0.136339,162440,N19 5DR,105576.0
+0,Railway 15 Liverpool Street London,Pubs & Bars - Digital,51.517442,-0.083242,162521,EC2M 7NX,117649.0
+0,Allsop Arms 137 Gloucester Place London,Pubs & Bars - Digital,51.522323,-0.16016,162684,NW1 5AL,117770.0
+0,"82 Wagner Str, Just Off Ilderton Road",Billboards,51.479083,-0.054481,162738,SE15 1NN,117830.0
+0,"256 Brixton Road, Brixton",Billboards,51.481165,-0.11085,162834,SE11 4PW,117885.0
+0,o/s 20 Northways Parad Swiss Cottage Camden,Phoneboxes,51.544228,-0.175313,162846,NW3 5EN,103924.0
+0,Admiral Duncan 54 Old Compton Street London,Pubs & Bars - Digital,51.512781,-0.132498,162950,W1D 4UB,117944.0
+0,Number 1 Bar 1 Duke Street Hill London,Pubs & Bars - Digital,51.505966,-0.087043,163020,SE1 2SW,117996.0
+0,11 Rotherhithe Old Rd Whelans Ph Nr Surrey Quays,Billboards,51.492788,-0.047458,163605,SE16 2RL,97703.0
+0,Green Man Soho W1 157 Berwick Street LONDON,Pubs & Bars - Digital,51.5156,-0.13672,163631,W1F 8SR,118349.0
+0,o/s 40 Bernard St City Of London,Phoneboxes,51.523249,-0.124481,163669,WC1N 1LJ,111591.0
+0,o/s 27 Marylebone Road,Phoneboxes,51.522496,-0.154844,163685,NW9 8JB,113796.0
+0,Kentish Town Road o/s 329-331 Opp Station,Phoneboxes,51.550072,-0.140929,164084,NW5 2TJ,103909.0
+0,102 Dog Kennel Hill Nr Dulwich Hamlet Fc E Dulwich (Wave),Billboards,51.461958,-0.081066,164092,SE22 8BE,97726.0
+0,379 Bethnal Green Road Adj The Old George Ph Cnr Wear Place,Billboards,51.527171,-0.059609,164209,E2 0AN,97863.0
+0,"Prince of Wales 2 Cleveland Terrace, Paddington. London",Pubs & Bars - Digital,51.517268,-0.180174,164214,W2 6LH,118533.0
+0,"The Horseshoe 26 Mellior Street, London London",Pubs & Bars - Digital,51.502475,-0.0842,164215,SE1 3QP,118534.0
+0,"141 Roman Road, Bethnal Green",Billboards,51.528923,-0.04809,164473,E2 0PL,120554.0
+0,"Queens Hotel, 324 Seven Sisters Road",Billboards,51.565855,-0.102276,164477,N4 2AP,120555.0
+0,"Seven Island Leisure Centre, Lower Road",Billboards,51.496371,-0.052725,164512,SE16 2TU,115379.0
+0,Britannica 94 Ironmonger Row London,Pubs & Bars - Digital,51.527296,-0.094519,164522,EC1A 1AA,120569.0
+0,"White Hart, 89 Whitechapel High Street, London",Pubs & Bars - Digital,51.515816,-0.070815,164745,E1 7RA,120850.0
+0,"Tha Farriers Arms 214 Lower Road, Deptford London",Pubs & Bars - Digital,51.49142,-0.04439,164771,SE8 5DJ,120867.0
+0,The Little Crown 495 New Cross Road London,Pubs & Bars - Digital,51.47516,-0.026884,164773,SE14 6TQ,120869.0
+0,The Prince Albert 11 Bellenden Road London,Pubs & Bars - Digital,51.468286,-0.072439,164777,SE15 4QY,120873.0
+0,The Queen Elizabeth 34 Merron Street London,Pubs & Bars - Digital,51.485848,-0.091412,164778,SE17 2NH,120874.0
+0,The Flowers of the Forest 14 Westminster Bridge Road London,Pubs & Bars - Digital,51.498646,-0.106439,164780,SE1 7QX,120876.0
+0,Little Apple 98 Kennington Lane London,Pubs & Bars - Digital,51.489876,-0.108103,164783,SE11 4XD,120879.0
+0,Royal Oak 355 Kennington Lane London,Pubs & Bars - Digital,51.486288,-0.11958,164784,SE11 5QY,120880.0
+0,Prince Albert 418 Coldharbour Lane London,Pubs & Bars - Digital,51.461803,-0.11306,164814,SW9 8LF,120906.0
+0,Hope and Anchor 207 Upper Street London,Pubs & Bars - Digital,51.543251,-0.103428,164819,N1 1RL,120911.0
+0,50 Junction Road,Billboards,51.563712,-0.135738,164891,N19 5RD,120960.0
+0,Amhurst Road 44 Amhurst Road Cnr Kenmure Road Hackney Central,Premium Billboards - Digital,51.548255,-0.057177,164908,E8 1JN,120973.0
+0,Camden High Street Camden High Street/Hawley Crescent,Premium Billboards - Digital,51.540866,-0.144138,164913,NW1 7JE,120978.0
+0,Upper Clapton Road Upper Clapton Rd cnr Prout Rd fcg R/Bout Clapton,Premium Billboards - Digital,51.559295,-0.056059,164943,E5 8BQ,121016.0
+0,Old Kent Road 733 Old Kent Road Opp Asylum Rd,Premium Billboards - Digital,51.480963,-0.060029,164955,SE15 1JL,121028.0
+0,Billingsgate Market Billingsgate Market Aspen Way / Trafalgar Way,Premium Billboards - Digital,51.507057,-0.01583,164958,E14 5ST,121031.0
+0,"Aspen Way Aspen Way, Naval Row",Premium Billboards - Digital,51.508652,-0.004405,164960,E14 9PS,121033.0
+0,Blackwell Tunnel Blackwall Tunnel Northern App/Hancock Rd Nr Tesco''s Bromley/Bow,Premium Billboards - Digital,51.527053,-0.010406,164962,E3 3DA,121035.0
+0,The Boston Arms 178 Junction Road London,Pubs & Bars - Digital,51.557074,-0.138456,164974,N19 5QQ,120994.0
+0,The George 40 Tower Bridge Road London,Pubs & Bars - Digital,51.495343,-0.083569,164975,SE1 4TR,120993.0
+0,"71 Mare Street, Hackney",Billboards,51.53653,-0.057223,165026,E8 4RG,121065.0
+0,69 Mare Street,Billboards,51.536736,-0.057186,165027,E8 4RG,121066.0
+0,Old Ale Emporium 405 Green Lanes London,Pubs & Bars - Digital,51.578075,-0.098958,165044,N4 1EU,121076.0
+0,Commercial Rd C/O Yorkshire Rd Limehouse,Billboards,51.512836,-0.038652,166506,E14 7LR,95788.0
+0,Globe Morning Lane Hackney,Pubs & Bars - Digital,51.545858,-0.053725,166601,E9 6NA,121845.0
+0,o/s 274-280 Brixton Rd Lambeth,Phoneboxes,51.470658,-0.112674,166879,SW9 6AG,104450.0
+0,o/s 105-107 Southgate Rd Islington,Phoneboxes,51.541403,-0.085094,166886,N1 3JS,104311.0
+0,Rocket 120 Euston Road London Camden,Pubs & Bars - Digital,51.52826,-0.128854,166898,NW1 2AL,122030.0
+0,o/s 29 Tottenham Court Rd Camden,Phoneboxes,51.518151,-0.132033,167054,W1T 1BU,103922.0
+0,Billingsgate Tower Billingsgate Tower Aspen Way Bi,Storm,51.507054,-0.012108,167127,E14 5ST,122202.0
+0,Lambeth Palace Road Lambeth Palace Road cnr Royal,Storm,51.498751,-0.116805,167128,SE1 7EQ,122203.0
+0,East India Dock Road Cnr Robin Hood Lane All Saints Poplar,Billboards,51.511172,-0.009352,167255,E14 6EU,97808.0
+0,East India Dock Road Cnr Robin Hood Lane All Saints Poplar,Billboards,51.511172,-0.009352,167256,E14 6EU,97808.0
+0,"Gillender St, N/O Blackwall Tunnel, N App, A12",Bus Shelters,51.519998,-0.009869,168381,E3 3LB,122976.0
+0,"Gillender St, N/O Blackwall Tunnel, N App, A12",Bus Shelters,51.519998,-0.009869,168382,E3 3LB,122976.0
+0,Colebert Ave Opp Prince Regent Ph O/S 1-25 Har Sq,Bus Shelters,51.524852,-0.048811,168383,E1 4EA,122980.0
+0,Colebert Ave Opp Prince Regent Ph O/S 1-25 Har Sq,Bus Shelters,51.524852,-0.048811,168384,E1 4EA,122980.0
+0,"Wateridge Cls, Opp Old Bellgate Plc, L",Bus Shelters,51.494298,-0.024862,168385,E14 3TQ,122981.0
+0,"Wateridge Cls, Opp Old Bellgate Plc, L",Bus Shelters,51.494298,-0.024862,168386,E14 3TQ,122981.0
+0,"Globe Rd, Chepas St, Opp Price Of Wales Ph, Opp Hs",Bus Shelters,51.524554,-0.048752,168387,E1 4JY,122983.0
+0,"Globe Rd, Chepas St, Opp Price Of Wales Ph, Opp Hs",Bus Shelters,51.524554,-0.048752,168388,E1 4JY,122983.0
+0,"Old Ford Rd, Globe Rd, 2m W/O Opp O/S 51",Bus Shelters,51.530138,-0.053006,168391,E2 9PJ,122985.0
+0,"Old Ford Rd, Globe Rd, 2m W/O Opp O/S 51",Bus Shelters,51.530138,-0.053006,168392,E2 9PJ,122985.0
+0,"Westferry Road , Maconochies Road , 35 M W/O & opp 270",Bus Shelters,51.48821,-0.01847,168561,E14 3TQ,123120.0
+0,"Westferry Road , Maconochies Road , 35 M W/O & opp 270",Bus Shelters,51.48821,-0.01847,168562,E14 3TQ,123120.0
+0,Morris Road Fawe Sstreet 30m N/O Rifle Street,Bus Shelters,51.517277,-0.015897,168563,E14 6FD,123121.0
+0,Morris Road Fawe Sstreet 30m N/O Rifle Street,Bus Shelters,51.517277,-0.015897,168564,E14 6FD,123121.0
+0,(03) Commercial Street Thrawl Street 10m S/O 25m N/O Wentworth Street opp No 43a Tower Hamlets,Bus Shelters - Digital,51.517302,-0.073407,168570,E1 6LT,123125.0
+0,"Cotton Street Poplar High Street, 68 M n/o 117 M s/o East India Dock Road on L/S L9-GL-07 Tower Haml",Bus Shelters - Digital,51.509578,-0.010122,168572,E14 0ES,123127.0
+0,"East India Dock Road Brunswick Raod, 112 M E/O Nutmeg Lane, 76 M W/O &amp Opp Tower Hamlets",Bus Shelters - Digital,51.511842,-0.005833,168573,E14 0NP,123128.0
+0,"East India Dock Road Canton Street, 64 M E/O Opp No: 54 Tower Hamlets",Bus Shelters - Digital,51.51141,-0.024772,168574,E14 6JE,123129.0
+0,"East India Dock Road Financal Times Slip Road25 M W/O, 57 m e/o &amp Opp St Leonard''s Road Tower Ha",Bus Shelters - Digital,51.511426,-0.007868,168575,E14 9PP,123130.0
+0,"East Smithfield Cartwright Street, 36 M w/o &amp Opp Flats 14-33,18.5 M w/o &amp Opp Tower Hamlets",Bus Shelters - Digital,51.508353,-0.070854,168576,E1W 1AJ,123131.0
+0,"East Smithfield Cartwright StrEet, 93 M w/o &amp Opp Flats 14-33,76 M w/o Tower Bridge Approach, 158",Bus Shelters - Digital,51.508425,-0.071652,168577,E1W 1AP,123132.0
+0,Marsh Wall Admirals Way (E ARM) 22 M w/o &amp Opp 36 M E/O Mastmaker Road. Tower Hamlets,Bus Shelters - Digital,51.500675,-0.020443,168578,E14 9UQ,123133.0
+0,"Marsh Wall Limeharbour , 50 M e/o &amp Opp o/s 197 Tower Hamlets",Bus Shelters - Digital,51.499959,-0.01414,168582,E14 9SG,123136.0
+0,"Marsh Wall Limeharbour ,97 M w/o Opp 191-195, Thames Quay Tower Hamlets",Bus Shelters - Digital,51.499959,-0.014806,168583,E14 9GE,123137.0
+0,"Marsh Wall Manchester Raod, 25 M w/o 61M e/o Lawn House Close o/s Jack Dash House Tower Hamlets",Bus Shelters - Digital,51.499837,-0.009753,168584,E14 3LA,123138.0
+0,"Mile End Road Stepney Green , 55 M W/O &amp Opp No: 107, 17M W/O Tower Hamlets",Bus Shelters - Digital,51.520958,-0.0511,168586,E1 4UU,123140.0
+0,"Mile End Road Maplin Street, 32 M e/o 44 M W/O Southern Grove o/s Buttermere House Opp No:427 Tower",Bus Shelters - Digital,51.525527,-0.032398,168588,E3 4PH,123142.0
+0,"Preston Road Baffin Way 38.5 M S/O &amp Opp St Lawrence Street, 54 M N/O &amp Opp Tower Hamlets",Bus Shelters - Digital,51.506468,-0.007661,168589,E14 9QZ,123143.0
+0,"The Highway Chigwell Hill, 22.5 M E/O 69.5M W/O Wapping Lane. Tower Hamlets",Bus Shelters - Digital,51.50945,-0.059819,168593,E1W 2BX,123146.0
+0,"The Highway School Lane, Opp o/s 350 (Free Trade House) Tower Hamlets",Bus Shelters - Digital,51.510179,-0.045415,168594,E1W 3HU,123147.0
+0,Bow Road Kitkat Terrace 55 m e/o 86 m w/o Fairfield Road o/s Bow School Of Mathematics &amp Computin,Bus Shelters - Digital,51.528096,-0.020412,168596,E3 3AA,123149.0
+0,"East India Dock Birchfield Street, 61 M E/O, 11 m E/O No: 54 Tower Hamlets",Bus Shelters - Digital,51.511455,-0.024817,168597,E14 6JE,123150.0
+0,"Mile End Road Cleveland Way, 71 M w/o &amp Opp Flat 41 O''leary Square Tower Hamlets",Bus Shelters - Digital,51.520565,-0.052507,168599,E1 4UN,123152.0
+0,"Preston Road St Lawrence Street, Adj to Baffin Way, 88 M s/o Tower Hamlets",Bus Shelters - Digital,51.505981,-0.00737,168600,E14 9QR,123153.0
+0,"Cotton Street Poplar High Street, 50 M n/o 135 M s/o East India Dock Road. ON L/S-L9-GL-07 Tower Ham",Bus Shelters - Digital,51.509986,-0.010158,168601,E14 0EW,123154.0
+0,"Preston Rd, Baffin Way, S/O Opp St Lawrence St,",Bus Shelters,51.506414,-0.007444,168618,E14 9QZ,123169.0
+0,"Marsh Walls Admirals Way, (Earm) W/O Opp Mastmaker",Bus Shelters,51.500223,-0.017969,168619,E14 9SL,123170.0
+0,"Mile End Rd, Maplin St, W/O Southern Grv, Butterme",Bus Shelters,51.525476,-0.032496,168623,E3 4PH,123173.0
+0,PRESTON ROAD ST LAWRENCE STREET ADJ TO BAFFIN WAY,Bus Shelters,51.506066,-0.007477,168662,E14 9QR,123213.0
+0,Marsh Wall Limeharbour Opp 191-195 Thames Quay,Bus Shelters,51.500248,-0.017939,168663,E1 1JE,123214.0
+0,Whitechapel Road Vine Court Opp Booth House,Bus Shelters,51.517805,-0.064752,168664,E1 1JE,123215.0
+0,COTTON STREET 50M N/O POPULAR HIGHT STREET 135 M S/O EAST INDIA DOCK ROAD,Bus Shelters,51.509957,-0.010119,168665,E14 0EW,123216.0
+0,MILE END ROAD 71M W/O & CLEVELAND WAY & OPP FLAT 41 OLEARY SQUARE,Bus Shelters,51.520309,-0.053042,168666,E1 4UN,123217.0
+0,East India Dock Rd F/T Slip Rd Opp St Leonards Rd,Bus Shelters,51.511331,-0.007883,168670,E14 9PP,123219.0
+0,EAST INDIA DOCK ROAD 61M E/O BIRCHFIELD STREET 11M E/O NO 54,Bus Shelters,51.511393,-0.024829,168678,E14 6JE,123223.0
+0,EAST INDIA DOCK ROAD 112M E/O  BRUNSWICK ROAD 76M W/O NUTMEG LANE,Bus Shelters,51.5118,-0.00583,168679,E14 0NP,123224.0
+0,Marsh Wall Limeharbour 50m E/O & Opp O/S 197,Bus Shelters,51.500023,-0.014536,168680,E14 9YT,123225.0
+0,Cotton St. Poplar High St. East India Dock Rd L/S,Bus Shelters,51.509518,-0.010225,168681,E14 0ES,123226.0
+0,East India Dock Rd Canton St. 64m E/O Opp No. 54,Bus Shelters,51.511369,-0.010877,168714,E14 6JE,123260.0
+0,Mile End Rd Camb Heath Rd E/O Opp Sidney St o/s 31,Bus Shelters,51.520477,-0.054505,168715,E1 4TP,123261.0
+0,o/s 179 Haverstock Hill Camden,Phoneboxes,51.550286,-0.164743,169560,NW3 4QS,103911.0
+0,THE SHIP BOROUGH HIGH STREET LONDON,Storm,51.499425,-0.096829,169615,SE1 1DX,124039.0
+0,East Smithfield Cartwright St Opp Flats 14-33 Tower Bridge Approach,Bus Shelters,51.508462,-0.071892,169650,E1W 1AP,124076.0
+0,Commercial St. Thrawl St.10m S/O 25m N/O Wentworth St. Opp 43a Tower Hamlets,Bus Shelters,51.517406,-0.073273,169651,E1 6LT,124077.0
+0,The Highway School Lane opp O/S 350 (Free Trade House) Tower Hamlets,Bus Shelters,51.509901,-0.045242,169652,E1W 3HU,124078.0
+0,The Highway Chigwell Hill 22.5m E/O Wapping Lane,Bus Shelters,51.509085,-0.061648,169653,E1W 2BX,124079.0
+0,Bow Rd Campbell Rd 83m E/O Opp Fairfield Rd,Bus Shelters,51.513966,-0.065991,169657,E3 2AN,124084.0
+0,Bow Rd Campbell Rd 83m E/O Opp Fairfield Rd,Bus Shelters,51.513966,-0.065991,169658,E3 2AN,124084.0
+0,Marsh Wall 25m W/O Manchester Road,Bus Shelters,51.499818,-0.009869,169677,E14 3LA,124093.0
+0,East Smithfield Cartwright St Opp Flats 14-33,Bus Shelters,51.508203,-0.070865,169945,E1W 1AJ,124213.0
+0,Sainsburys Camden 17-21 Camden Road London,Sainsburys - Digital,51.540185,-0.141196,172738,NW1 9LJ,126939.0
+0,Limeharbour East Ferry Road  Glengall Grove  30m  s/o 100m n/o exit from Asda  opp Crossharbour (DLR,Bus Shelters,51.495572,-0.01403,172786,E14 3NA,126980.0
+0,Limeharbour East Ferry Road  Glengall Grove  30m  s/o 100m n/o exit from Asda  opp Crossharbour (DLR,Bus Shelters,51.495572,-0.01403,172787,E14 3NA,126980.0
+0,Grove Road  Litchfield Road 46m s/o 58m n/o  Morgan Street o/s No: 46,Bus Shelters,51.527082,-0.036375,172788,E3 5AX,126981.0
+0,Grove Road  Litchfield Road 46m s/o 58m n/o  Morgan Street o/s No: 46,Bus Shelters,51.527082,-0.036375,172789,E3 5AX,126981.0
+0,CHRISP STREET 51M N/O CORDELIA STREET 63M S/O CARMEN STREET O/S EQUINOX HOUSING DEV,Bus Shelters,51.514361,-0.014712,172790,E14 6GL,126982.0
+0,CHRISP STREET 51M N/O CORDELIA STREET 63M S/O CARMEN STREET O/S EQUINOX HOUSING DEV,Bus Shelters,51.514361,-0.014712,172791,E14 6GL,126982.0
+0,CHRISP STREET 51M N/O CORDELIA STREET 63M S/O CARMEN STREET O/S EQUINOX HOUSING DEV,Bus Shelters,51.514361,-0.014712,172792,E14 6GL,126982.0
+0,CHRISP STREET 51M N/O CORDELIA STREET 63M S/O CARMEN STREET O/S EQUINOX HOUSING DEV,Bus Shelters,51.514361,-0.014712,172793,E14 6GL,126982.0
+0,CHRISP STREET 51M N/O CORDELIA STREET 63M S/O CARMEN STREET O/S EQUINOX HOUSING DEV,Bus Shelters,51.514361,-0.014712,172794,E14 6GL,126982.0
+0,Sainsburys Dulwich 80 Dog Kennel Hill Dulwich,Sainsburys - Digital,51.462091,-0.084255,172799,SE22 8BB,126987.0
+0,Sainsburys Harringey Williamson Road Green Lanes London,Sainsburys - Digital,51.576731,-0.095653,172815,N4 1UJ,126998.0
+0,Manchester Road  Amsterdam Road (N ARM)  4.5m opp & s/o  97m n/o Friars Mead.,Bus Shelters,51.494874,-0.008932,172844,E14 3NE,127023.0
+0,Manchester Road  Amsterdam Road (N ARM)  4.5m opp & s/o  97m n/o Friars Mead.,Bus Shelters,51.494874,-0.008932,172845,E14 3NE,127023.0
+0,ST PAULS WAY 51M W/O BAYTHORNE STREET  29M E/O & OPP WALLWOOD STREET,Bus Shelters,51.517524,-0.028426,172850,E3 4LA,127025.0
+0,Sainsburys Whitechapel 1 Cambridge Heath Road London,Sainsburys - Digital,51.520649,-0.057732,172879,E1 5SD,127054.0
+0,MANCHESTER ROAD 26M W/O STEBOLDALE STREET 21M E/O ISLAND GARDENS,Bus Shelters,51.487839,-0.009844,172918,E14 3DQ,127076.0
+0,MANCHESTER ROAD 26M W/O STEBOLDALE STREET 21M E/O ISLAND GARDENS,Bus Shelters,51.487839,-0.009844,172919,E14 3DQ,127076.0
+0,MANCHESTER ROAD 26M W/O STEBOLDALE STREET 21M E/O ISLAND GARDENS,Bus Shelters,51.487839,-0.009844,172920,E14 3DQ,127076.0
+0,MANCHESTER ROAD 26M W/O STEBOLDALE STREET 21M E/O ISLAND GARDENS,Bus Shelters,51.487839,-0.009844,172921,E14 3DQ,127076.0
+0,MANCHESTER ROAD 26M W/O STEBOLDALE STREET 21M E/O ISLAND GARDENS,Bus Shelters,51.487839,-0.009844,172922,E14 3DQ,127076.0
+0,BETHNAL GREEN ROAD O/S 401 15M E/O CANROBERT STREET,Bus Shelters,51.526988,-0.059951,172928,E2 0AN,127082.0
+0,BETHNAL GREEN ROAD O/S 401 15M E/O CANROBERT STREET,Bus Shelters,51.526988,-0.059951,172929,E2 0AN,127082.0
+0,BETHNAL GREEN ROAD O/S 401 15M E/O CANROBERT STREET,Bus Shelters,51.526988,-0.059951,172930,E2 0AN,127082.0
+0,BETHNAL GREEN ROAD O/S 401 15M E/O CANROBERT STREET,Bus Shelters,51.526988,-0.059951,172931,E2 0AN,127082.0
+0,CAMBRIDGE HEATH ROAD OPP 306 8M N/O & OPP PARMITER STREET,Bus Shelters,51.532058,-0.057068,172933,E2 9HA,127084.0
+0,CAMBRIDGE HEATH ROAD OPP 306 8M N/O & OPP PARMITER STREET,Bus Shelters,51.532058,-0.057068,172934,E2 9HA,127084.0
+0,CAMBRIDGE HEATH ROAD OPP 306 8M N/O & OPP PARMITER STREET,Bus Shelters,51.532058,-0.057068,172935,E2 9HA,127084.0
+0,CAMBRIDGE HEATH ROAD OPP 306 8M N/O & OPP PARMITER STREET,Bus Shelters,51.532058,-0.057068,172936,E2 9HA,127084.0
+0,CAMBRIDGE HEATH ROAD OPP 306 8M N/O & OPP PARMITER STREET,Bus Shelters,51.532058,-0.057068,172937,E2 9HA,127084.0
+0,CAMBRIDGE HEATH ROAD OPP 229 34M N/O & OPP THREE COLT LANE,Bus Shelters,51.525007,-0.054874,172939,E2 0EL,127085.0
+0,CAMBRIDGE HEATH ROAD OPP 229 34M N/O & OPP THREE COLT LANE,Bus Shelters,51.525007,-0.054874,172940,E2 0EL,127085.0
+0,CAMBRIDGE HEATH ROAD OPP 229 34M N/O & OPP THREE COLT LANE,Bus Shelters,51.525007,-0.054874,172941,E2 0EL,127085.0
+0,CAMBRIDGE HEATH ROAD OPP 229 34M N/O & OPP THREE COLT LANE,Bus Shelters,51.525007,-0.054874,172942,E2 0EL,127085.0
+0,CAMBRIDGE HEATH ROAD OPP 229 34M N/O & OPP THREE COLT LANE,Bus Shelters,51.525007,-0.054874,172943,E2 0EL,127085.0
+0,Storm Nine Elms Battersea Embassy Gardens London,Storm,51.482635,-0.135352,173006,SW8 5PZ,127144.0
+0,OLD FORD ROAD 4M E/O & OPP PEEL GROVE 57M W/O APPEOACH ROAD  O/S EVERSHAM HOUSE,Bus Shelters,51.529902,-0.053454,173025,E2 9PN,127165.0
+0,OLD FORD ROAD 4M E/O & OPP PEEL GROVE 57M W/O APPEOACH ROAD  O/S EVERSHAM HOUSE,Bus Shelters,51.529902,-0.053454,173026,E2 9PN,127165.0
+0,OLD FORD ROAD 4M E/O & OPP PEEL GROVE 57M W/O APPEOACH ROAD  O/S EVERSHAM HOUSE,Bus Shelters,51.529902,-0.053454,173027,E2 9PN,127165.0
+0,OLD FORD ROAD 4M E/O & OPP PEEL GROVE 57M W/O APPEOACH ROAD  O/S EVERSHAM HOUSE,Bus Shelters,51.529902,-0.053454,173028,E2 9PN,127165.0
+0,OLD FORD ROAD 4M E/O & OPP PEEL GROVE 57M W/O APPEOACH ROAD  O/S EVERSHAM HOUSE,Bus Shelters,51.529902,-0.053454,173029,E2 9PN,127165.0
+0,CAMBRIDGE HEATH ROAD O/S 4/5 DONEGAL HOUSE 49M N/O & OPP CHEPHAS STREET,Bus Shelters,51.523643,-0.055091,173045,E1 5QS,127181.0
+0,WEST INDIA DOCK ROAD 18M E/O RUGG STREET 11M W/O 27 LIMEHOUSE POLICE STATION,Bus Shelters,51.511095,-0.027393,173055,E14 8HB,127187.0
+0,WEST INDIA DOCK ROAD 18M E/O RUGG STREET 11M W/O 27 LIMEHOUSE POLICE STATION,Bus Shelters,51.511095,-0.027393,173056,E14 8HB,127187.0
+0,WEST INDIA DOCK ROAD 18M E/O RUGG STREET 11M W/O 27 LIMEHOUSE POLICE STATION,Bus Shelters,51.511095,-0.027393,173057,E14 8HB,127187.0
+0,WEST INDIA DOCK ROAD 18M E/O RUGG STREET 11M W/O 27 LIMEHOUSE POLICE STATION,Bus Shelters,51.511095,-0.027393,173059,E14 8HB,127187.0
+0,LIMEHHARBOUR 97M S/O MARSH WALL HARBOUR EXCHANGE SQUARE,Bus Shelters,51.498902,-0.01367,173060,E14 9TS,127188.0
+0,LIMEHHARBOUR 97M S/O MARSH WALL HARBOUR EXCHANGE SQUARE,Bus Shelters,51.498902,-0.01367,173061,E14 9TS,127188.0
+0,LIMEHHARBOUR 97M S/O MARSH WALL HARBOUR EXCHANGE SQUARE,Bus Shelters,51.498902,-0.01367,173062,E14 9TS,127188.0
+0,LIMEHHARBOUR 97M S/O MARSH WALL HARBOUR EXCHANGE SQUARE,Bus Shelters,51.498902,-0.01367,173063,E14 9TS,127188.0
+0,LIMEHHARBOUR 97M S/O MARSH WALL HARBOUR EXCHANGE SQUARE,Bus Shelters,51.498902,-0.01367,173064,E14 9TS,127188.0
+0,BETHNAL GREEN ROAD O/S 401 15M E/O CANROBERT STREET,Bus Shelters,51.526988,-0.059951,173073,E2 0AN,127082.0
+0,GROVE ROAD OPP 12 95M N/O MILE END ROAD,Bus Shelters,51.525715,-0.035338,173128,E3 5AX,127225.0
+0,CAMBRIDGE HEATH ROA O/S 229 41M N/O THREE COLTS LANE,Bus Shelters,51.525236,-0.055167,173129,E2 0EL,127226.0
+0,CAMBRIDGE HEATH ROA O/S 229 41M N/O THREE COLTS LANE,Bus Shelters,51.525236,-0.055167,173130,E2 0EL,127226.0
+0,CAMBRIDGE HEATH ROA O/S 229 41M N/O THREE COLTS LANE,Bus Shelters,51.525236,-0.055167,173131,E2 0EL,127226.0
+0,CAMBRIDGE HEATH ROA O/S 229 41M N/O THREE COLTS LANE,Bus Shelters,51.525236,-0.055167,173132,E2 0EL,127226.0
+0,CAMBRIDGE HEATH ROA O/S 229 41M N/O THREE COLTS LANE,Bus Shelters,51.525236,-0.055167,173133,E2 0EL,127226.0
+0,CHRISP STREET OPP 18  31M N/O SUZANNAH STREET,Bus Shelters,51.514748,-0.014724,173142,E14 6NW,127228.0
+0,CHRISP STREET OPP 18  31M N/O SUZANNAH STREET,Bus Shelters,51.514748,-0.014724,173143,E14 6NW,127228.0
+0,CHRISP STREET OPP 18  31M N/O SUZANNAH STREET,Bus Shelters,51.514748,-0.014724,173144,E14 6NW,127228.0
+0,CHRISP STREET OPP 18  31M N/O SUZANNAH STREET,Bus Shelters,51.514748,-0.014724,173145,E14 6NW,127228.0
+0,CHRISP STREET OPP 18  31M N/O SUZANNAH STREET,Bus Shelters,51.514748,-0.014724,173146,E14 6NW,127228.0
+0,ST PAULS WAY 26M W/O SELSEY STREET 22.5 M E/O BURGESS STREET,Bus Shelters,51.518119,-0.025345,173147,E14 7BT,127229.0
+0,ST PAULS WAY 26M W/O SELSEY STREET 22.5 M E/O BURGESS STREET,Bus Shelters,51.518119,-0.025345,173148,E14 7BT,127229.0
+0,ST PAULS WAY 26M W/O SELSEY STREET 22.5 M E/O BURGESS STREET,Bus Shelters,51.518119,-0.025345,173149,E14 7BT,127229.0
+0,ST PAULS WAY 26M W/O SELSEY STREET 22.5 M E/O BURGESS STREET,Bus Shelters,51.518119,-0.025345,173150,E14 7BT,127229.0
+0,ST PAULS WAY 26M W/O SELSEY STREET 22.5 M E/O BURGESS STREET,Bus Shelters,51.518119,-0.025345,173151,E14 7BT,127229.0
+0,EAST FERRY ROAD 137M N/O SELDON WAY  37M S/O BALTIMORE WHALF  O/S CROSSHARBOUR DLR STATION,Bus Shelters,51.496502,-0.014235,173246,E14 3LH,127296.0
+0,EAST FERRY ROAD 137M N/O SELDON WAY  37M S/O BALTIMORE WHALF  O/S CROSSHARBOUR DLR STATION,Bus Shelters,51.496502,-0.014235,173247,E14 3LH,127296.0
+0,GLOBE ROAD 85M N/O PORTMAN STREET O/S P/W 165-167,Bus Shelters,51.526054,-0.050245,173248,E2 0JY,127297.0
+0,GLOBE ROAD 85M N/O PORTMAN STREET O/S P/W 165-167,Bus Shelters,51.526054,-0.050245,173249,E2 0JY,127297.0
+0,Crown & Cushion 133 Westminster Bridge Road London,Pubs & Bars - Digital,51.499533,-0.113884,173300,SE1 7HR,127348.0
+0,Dover Castle 6a Great Dover Street London,Pubs & Bars - Digital,51.50042,-0.092789,173301,SE1 4XW,127349.0
+0,LIMEHARBOUR 53M S/O MARSH WALL OPP 1-39 HARBOUR EXCHANGE SQUARE,Bus Shelters,51.499285,-0.013422,173365,E14 9LS,127399.0
+0,LIMEHARBOUR 53M S/O MARSH WALL OPP 1-39 HARBOUR EXCHANGE SQUARE,Bus Shelters,51.499285,-0.013422,173366,E14 9LS,127399.0
+0,MANCHESTER ROAD 80.5M W/O & OPP GLENAFFRIC AVE O/S 137,Bus Shelters,51.48848,-0.007842,173367,E14 3ER,127400.0
+0,MANCHESTER ROAD 80.5M W/O & OPP GLENAFFRIC AVE O/S 137,Bus Shelters,51.48848,-0.007842,173368,E14 3ER,127400.0
+0,PARNELL ROAD OPP CANDY STREET 120M S/O WATERSIDE CLOSE O/S SIDE WALL OF No 1 WATERSIDE CLOSE,Bus Shelters,51.537145,-0.028905,173369,E3 2JB,127401.0
+0,PARNELL ROAD OPP CANDY STREET 120M S/O WATERSIDE CLOSE O/S SIDE WALL OF No 1 WATERSIDE CLOSE,Bus Shelters,51.537145,-0.028905,173370,E3 2JB,127401.0
+0,BONNER ROAD 26M E/O APPROACH ROAD O/S LONDON CHEST HOSPITAL,Bus Shelters,51.531767,-0.05039,173371,E2 9JX,127402.0
+0,BONNER ROAD 26M E/O APPROACH ROAD O/S LONDON CHEST HOSPITAL,Bus Shelters,51.531767,-0.05039,173372,E2 9JX,127402.0
+0,GROVE  ROAD 14M N/O & OPP MORGAN ROAD  O/S 47,Bus Shelters,51.526747,-0.03626,173375,E3 4PE,127404.0
+0,GROVE  ROAD 14M N/O & OPP MORGAN ROAD  O/S 47,Bus Shelters,51.526747,-0.03626,173376,E3 4PE,127404.0
+0,SALTER STREET 20M S/O LIMEHOUSE CAUSEWAY 30 5M N/O WESTFERRY ROAD OPP WESTFERRY DLR STATION,Bus Shelters,51.50908,-0.02686,173377,E14 8AS,127405.0
+0,SALTER STREET 20M S/O LIMEHOUSE CAUSEWAY 30 5M N/O WESTFERRY ROAD OPP WESTFERRY DLR STATION,Bus Shelters,51.50908,-0.02686,173378,E14 8AS,127405.0
+0,Sainsburys New Cross Gate 263 New Cross Road London,Sainsburys - Digital,51.476814,-0.042549,173384,SE14 5UQ,127411.0
+0,WESTFERY ROAD 33M N/O GARFORD STREET 50M S/O ASPEN WAY OPP WESTFERY DLR,Bus Shelters,51.508771,-0.026657,173396,E14 8SB,127417.0
+0,CAMBRISGE HEATH ROAD 31M N/O DARLING ROW 79.5 M S/O HEADLAM STREET,Bus Shelters,51.521068,-0.05595,173397,E1 4HG,127418.0
+0,CAMBRISGE HEATH ROAD 31M N/O DARLING ROW 79.5 M S/O HEADLAM STREET,Bus Shelters,51.521068,-0.05595,173398,E1 4HG,127418.0
+0,CRISP STREET 28M S/O & OPP CARMEN STREET 103M N/O & OPP CORDELLA STREET O/S120-0122,Bus Shelters,51.514738,-0.01471,173399,E14 6NL,127419.0
+0,CRISP STREET 28M S/O & OPP CARMEN STREET 103M N/O & OPP CORDELLA STREET O/S120-0122,Bus Shelters,51.514738,-0.01471,173400,E14 6NL,127419.0
+0,Asda Isle of Dogs 151 East Ferry Road London,Asda - Digital,51.494284,-0.012398,173419,E14 3BT,127438.0
+0,Asda Leyton Leyton Mills Centre London,Asda - Digital,51.555821,-0.009437,173420,E10 5NH,127439.0
+0,The Windmill 44 Lambeth High Street London,Pubs & Bars - Digital,51.493092,-0.12033,173435,SE1 7JS,127451.0
+0,Asda Old Kent Road 520 Old Kent Road London,Asda - Digital,51.484014,-0.069599,173450,SE1 5BA,127466.0
+0,Belgravia 152 Ebury St London,Pubs & Bars - Digital,51.492407,-0.151561,173847,SW1W 9JL,127770.0
+0,Phoenix 51 Moscow Road London,Pubs & Bars - Digital,51.512375,-0.18987,173886,W2 4AL,127783.0
+0,ST PAULS WAY 51M W/O BAYTHORNE STREET  29M E/O & OPP WALLWOOD STREET,Bus Shelters,51.517524,-0.028426,174123,E3 4LA,127025.0
+0,Monument 18 Fish Street Hill London,Pubs & Bars - Digital,51.510084,-0.086192,174170,EC3R 6DB,128147.0
+0,Morpeth Street jnc Roman Road Tower Hamlets,Phoneboxes - Digital,51.528827,-0.04805,174204,E2 0QN,128175.0
+0,o/s 84 Cambridge Heath Road Tower Hamlets,Phoneboxes - Digital,51.523476,-0.054848,174215,E1 5QJ,128186.0
+0,Cordelia Street nr Young Prince Public House Tower Hamlets,Phoneboxes - Digital,51.5139,-0.01567,174216,E14 6AT,128187.0
+0,o/s 211 Roman Road opp Smart Street Tower Hamlets,Phoneboxes - Digital,51.529568,-0.045475,174217,E2 0QY,128188.0
+0,o/s 339 Bethnal Green Road Tower Hamlets,Phoneboxes - Digital,51.526739,-0.062613,174218,E2 6LG,128189.0
+0,opp 371 Hackney Road adj Hadrian Estate Tower Hamlets,Phoneboxes - Digital,51.531452,-0.063993,174219,E2 7AS,128190.0
+0,Gibraltar Walk jnc Bethnal Green Road Tower Hamlets,Phoneboxes - Digital,51.525648,-0.070029,174220,E2 7DG,128191.0
+0,o/s 457 Bethnal Green Road Tower Hamlets,Phoneboxes - Digital,51.527338,-0.05747,174235,E2 9QH,128212.0
+0,o/s 190 Old Kent Road Southwark,Phoneboxes - Digital,51.490368,-0.08069,174245,SE1 5TY,128221.0
+0,adj Lambrook House Clifton Estates Southwark,Phoneboxes - Digital,51.473889,-0.064643,174246,SE15 5EQ,128222.0
+0,Shelmerdine Close o/s St.Pauls Way Centre Tower Hamlets,Phoneboxes - Digital,51.518244,-0.025607,174249,E3 4AN,128225.0
+0,o/s 2-4 Stroudley Walk o/s Post Office Tower Hamlets,Phoneboxes - Digital,51.527858,-0.017553,174265,E3 3AJ,128245.0
+0,St Stephens Road jnc Old Ford Road Tower Hamlets,Phoneboxes - Digital,51.534942,-0.033947,174266,E3 5JU,128246.0
+0,o/s 79a-80 Grand Parade Green Lanes Haringey,Phoneboxes - Digital,51.577376,-0.098703,174270,N4 1DX,128250.0
+0,o/s 25-26 Grand Parade Green Lanes Haringey,Phoneboxes - Digital,51.580601,-0.09929,174271,N4 1LG,128251.0
+0,Walworth Road jnc Heygate Street Southwark,Phoneboxes - Digital,51.491767,-0.097837,174288,SE17 1JL,128267.0
+0,o/s 6-7 Grand Parade Green Lanes Haringey,Phoneboxes - Digital,51.581808,-0.099458,174295,N4 1JX,128274.0
+0,o/s 133-137 Queens Road Southwark,Phoneboxes - Digital,51.473591,-0.058348,174360,SE15 2ND,128324.0
+0,o/s 208 Southwark Park Road Southwark,Phoneboxes - Digital,51.492151,-0.064262,174361,SE16 3RW,128325.0
+0,Roman Road adj Beehive Pub Tower Hamlets,Phoneboxes - Digital,51.529986,-0.043692,174362,E2 0SL,128326.0
+0,o/s 349 Commercial Road Tower Hamlets,Phoneboxes - Digital,51.514254,-0.053935,174378,E1 2PS,128339.0
+0,o/s 569 Green Lanes Haringey,Phoneboxes - Digital,51.583153,-0.099952,174598,N8 0RL,128496.0
+0,o/s 121 Seven Sisters Road Islington,Phoneboxes - Digital,51.561307,-0.113079,174604,N1 7QG,128502.0
+0,o/s 347 Holloway Road Islington,Phoneboxes - Digital,51.556426,-0.11765,174605,N7 0RN,128503.0
+0,o/s 207 Old Street o/s BT Office Islington,Phoneboxes - Digital,51.525529,-0.088811,174606,EC1V 9NR,128504.0
+0,o/s 270 Holloway Road Islington,Phoneboxes - Digital,51.553886,-0.113839,174607,N7 6NE,128505.0
+0,o/s 526 Holloway Road Islington,Phoneboxes - Digital,51.55929,-0.121548,174608,N7 6JD,128506.0
+0,o/s 64 Essex Road Islington,Phoneboxes - Digital,51.538042,-0.09968,174609,N1 8LR,128507.0
+0,o/s 402 Holloway Road o/s David Hutchins Recruitment Islington,Phoneboxes - Digital,51.556826,-0.117726,174610,N7 6PZ,128508.0
+0,Opp 419-423 Old Kent Road opp Coopers Road Southwark,Phoneboxes - Digital,51.486578,-0.073348,174612,SE1 5EH,128510.0
+0,"Camb Heath Rd, Darling Row, Opp Headham St, O/S Fl",Bus Shelters,51.521068,-0.05595,174753,E1 4HE,122978.0
+0,"Camb Heath Rd, Darling Row, Opp Headham St, O/S Fl",Bus Shelters,51.521068,-0.05595,174754,E1 4HE,122978.0
+0,Mile End Rd Stepney Green 55m W/O Opp107 17m W/O,Bus Shelters,51.520888,-0.0511,174755,E1 4UU,123220.0
+0,Sainsburys Nine Elms 62 Wandsworth Road London,Sainsburys - Digital,51.481475,-0.127933,174828,SW8 2LF,128633.0
+0,Enkle Arms 155 Kilburn High Road London,Pubs & Bars - Digital,51.558828,-0.11714,174842,N7 6AA,128645.0
+0,Pineapple 53 Hercules Road London,Pubs & Bars - Digital,51.497164,-0.113718,174865,SE1 7DZ,128659.0
+0,Lord Nelson 386 Old Kent Road London,Pubs & Bars - Digital,51.486971,-0.074715,174960,SE1 5AA,128742.0
+0,Joiners Arms 35 Denmark Hill London,Pubs & Bars - Digital,51.471645,-0.092711,175008,SE5 8RS,128771.0
+0,Copper Tap 190-193 Peckham High Street London,Pubs & Bars - Digital,51.473641,-0.065297,175009,SE15 5EG,128772.0
+0,"George Canning 123 Grove Ln, Camberwell London",Pubs & Bars - Digital,51.467813,-0.086046,175010,SE5 8BG,128773.0
+0,Green Man 144A Essex Rd London,Pubs & Bars - Digital,51.539165,-0.097864,175074,N1 8LX,128822.0
+0,WICK LANE J-W AUTUM STREET 35M S/O & OPP NO: 75 OPP 443 SHELL SERVICE STATION TOWER HAMLETS,Bus Shelters,51.534627,-0.021977,175086,E3 2TB,128832.0
+0,WICK LANE J-W AUTUM STREET 35M S/O & OPP NO: 75 OPP 443 SHELL SERVICE STATION TOWER HAMLETS,Bus Shelters,51.534627,-0.021977,175087,E3 2TB,128832.0
+0,MANCHESTER ROAD  STEBONDALE STREET 21M  W/O OPP NO; 21 ENT TO ISLAND GARDENS TOWER HAMLETS,Bus Shelters,51.487801,-0.010767,175102,E14 3DQ,128843.0
+0,MANCHESTER ROAD  STEBONDALE STREET 21M  W/O OPP NO; 21 ENT TO ISLAND GARDENS TOWER HAMLETS,Bus Shelters,51.487801,-0.010767,175103,E14 3DQ,128843.0
+0,The Kings 59 Essex Rd London,Pubs & Bars - Digital,51.537632,-0.100365,175135,N1 2SF,128863.0
+0,Salmon and Ball 502 Bethnal Green Rd London,Pubs & Bars - Digital,51.526989,-0.057255,175140,E2 0EA,128868.0
+0,"Ferry House 26 Ferry St, Isle of Dogs London",Pubs & Bars - Digital,51.486356,-0.012544,175151,E14 3DT,128875.0
+0,"Hungerford Arms 240 Commercial Rd, Shadwell London",Pubs & Bars - Digital,51.514379,-0.058253,175156,E1 2NB,128880.0
+0,Shakespeare 99 Buckingham Palace Road London,Pubs & Bars - Digital,51.496195,-0.144834,175164,SW1W 0RP,128894.0
+0,New Road  Stepney Way 22m s/o Opp No: 103,Bus Shelters,51.517399,-0.062463,175246,E1 1HJ,128925.0
+0,New Road  Stepney Way 22m s/o Opp No: 103,Bus Shelters,51.517399,-0.062463,175247,E1 1HJ,128925.0
+0,o/s 220 Mile End Road Tower Hamlets,Phoneboxes - Digital,51.521344,-0.047693,175400,E1 4LJ,129068.0
+0,OLD FORD ROAD 50M W/O PARNELL ROAD OPP 536 O/S KILDARE HOUSE,Bus Shelters,51.535757,-0.029253,175499,E3 2LY,129156.0
+0,OLD FORD ROAD 50M W/O PARNELL ROAD OPP 536 O/S KILDARE HOUSE,Bus Shelters,51.535757,-0.029253,175500,E3 2LY,129156.0
+0,TRAFALGAR WAY  BILLINGSGATE ROUNDABOUT 39 M S/O OPP BILLINGSGATE MARKET TOWER HAMLETS,Bus Shelters,51.506132,-0.010473,175541,E14 5SE,129199.0
+0,TRAFALGAR WAY  BILLINGSGATE ROUNDABOUT 39 M S/O OPP BILLINGSGATE MARKET TOWER HAMLETS,Bus Shelters,51.506132,-0.010473,175542,E14 5SE,129199.0
+0,"The Traders Inn 52 Church St, St John''s Wood, London NW8 8EP London",Pubs & Bars - Digital,51.524004,-0.169695,175595,NW8 8EP,129243.0
+0,"1170 Surrey Canal Rd C/O Ilderton Rd, London",Billboards,51.484691,-0.053162,175610,SE16 3LA,129256.0
+0,o/s 198 Stamford Hill Hackney,Phoneboxes - Digital,51.572863,-0.072126,175629,N16 6RA,129274.0
+0,o/s 148 Lower Clapton Road Hackney,Phoneboxes - Digital,51.55537,-0.054545,175630,E5 0QJ,129275.0
+0,o/s 16 Morning Lane Hackney,Phoneboxes - Digital,51.545843,-0.053784,175631,E9 6NA,129276.0
+0,o/s 239-241 Holloway Road Islington,Phoneboxes - Digital,51.551385,-0.11113,175633,N7 8HG,129278.0
+0,Asda Stepney Green Anchor Retail Park 123 Mile End Road London,Asda - Digital,51.52112,-0.050398,175637,E1 4UJ,129282.0
+0,BURDETT ROAD ERIC STREET 37M S/O  149.5 M S/O BOW COMMON TOWER HAMLETS,Bus Shelters,51.522648,-0.034245,175726,E3 4TN,129364.0
+0,BURDETT ROAD ERIC STREET 37M S/O  149.5 M S/O BOW COMMON TOWER HAMLETS,Bus Shelters,51.522648,-0.034245,175727,E3 4TN,129364.0
+0,WESTFERRY ROAD 53 M N/O SPINDRIFT AVENUE OPP NO: 216 TOWER HAMLETS,Bus Shelters,51.49046,-0.022809,175730,E14 9YD,129368.0
+0,WESTFERRY ROAD 53 M N/O SPINDRIFT AVENUE OPP NO: 216 TOWER HAMLETS,Bus Shelters,51.49046,-0.022809,175731,E14 9YD,129368.0
+0,105 Charing Cross Road Foyles Westminster,Phoneboxes - Digital,51.513942,-0.129816,175773,WC2H 0DT,129401.0
+0,39 Wilton Road Pret A Manger Westminster,Phoneboxes - Digital,51.494503,-0.141892,175774,SW1V 1LJ,129402.0
+0,209 Baker Street opp Baker Street Tube Station Westminster,Phoneboxes - Digital,51.522485,-0.158238,175775,NW1 6UY,129404.0
+0,Marylebone Lane O/S Debenhams Westminster,Phoneboxes - Digital,51.514928,-0.147791,175776,W1C 1JG,129405.0
+0,13 Great Newport Street Corner of Leicester Square Tube Station Westminster,Phoneboxes - Digital,51.511931,-0.127794,175777,WC2H 7JA,129406.0
+0,143-145 Edgware Road Westminster,Phoneboxes - Digital,51.518945,-0.168212,175778,W2 1DW,129407.0
+0,27-29 Edgware Road Westminster,Phoneboxes - Digital,51.51445,-0.16254,175779,W2 2JE,129408.0
+0,438 Edgware Road Westminster,Phoneboxes - Digital,51.523091,-0.174013,175780,W2 1EG,129409.0
+0,6-10 Great Portland Street Maplin Westminster,Phoneboxes - Digital,51.515975,-0.140643,175781,W1W 8QL,129410.0
+0,50-52 Buckingham Palace Road O/S Balls Brothers Westminster,Phoneboxes - Digital,51.496935,-0.144977,175782,SW1W 0RN,129411.0
+0,10 Great Marlborough Street  O/S Marks And Spencers Westminster,Phoneboxes - Digital,51.514625,-0.138277,175783,W1F 7LP,129412.0
+0,97 Edgware Road William HIll Westminster,Phoneboxes - Digital,51.516474,-0.165134,175784,W2 2JF,129413.0
+0,o/s 436 Holloway Road Islington,Phoneboxes - Digital,51.557252,-0.118071,175785,N7 6QA,129414.0
+0,New Cross Road adj All Sainst Church Lewisham,Phoneboxes - Digital,51.475838,-0.048082,175788,SE14 5BA,129417.0
+0,Archway Underground Station o/s Subway Islington,Free Standing Units - Digital,51.564809,-0.13464,175835,N19 5QT,129456.0
+0,Caledonian 2 on Caledonian Road by Pool Islington,Free Standing Units - Digital,51.537855,-0.116968,175836,N1 0NH,129457.0
+0,Caledonian 6 junction Stock Orchard Terrace opp 54,Free Standing Units - Digital,51.560304,-0.112722,175837,N7 7PH,129458.0
+0,Caledonian Road Security Buildong j/c Killick Stre,Free Standing Units - Digital,51.534183,-0.119051,175838,N1 9RH,129459.0
+0,Caledonian Road Stock Orchard Street opposite Hilm,Free Standing Units - Digital,51.550784,-0.119088,175839,N7 9JD,129460.0
+0,Essex Road o/s Bentham Court Islington,Free Standing Units - Digital,51.540711,-0.095016,175840,N1 3AP,129461.0
+0,Caledonian Road j/c Camden Road Islington,Free Standing Units - Digital,51.555853,-0.117205,175841,N7 9SB,129462.0
+0,Corner of Holloway Road opp Fairbridge Islington,Free Standing Units - Digital,51.564456,-0.130543,175842,N19 3EN,129463.0
+0,Holloway Road o/s Whittington Park Islington,Free Standing Units - Digital,51.562614,-0.127228,175843,N19 4DQ,129464.0
+0,32-34 Clerkenwell Road Islington,Free Standing Units - Digital,51.522966,-0.100456,175844,EC1M 5PS,129465.0
+0,Old Street opp Shell Garage Islington,Free Standing Units - Digital,51.527025,-0.079686,175845,EC1V 9LT,129466.0
+0,Roseberry Avenue o/s Taylor House Islington,Free Standing Units - Digital,51.527341,-0.107425,175846,EC1R 4QU,129467.0
+0,Roseberry Avenue Tysoe Street Islington,Free Standing Units - Digital,51.526702,-0.109052,175847,EC1R 4RQ,129468.0
+0,Seven Sisters Road opp Meding Road Islington,Free Standing Units - Digital,51.561597,-0.111471,175848,N7 7PU,129469.0
+0,St John Street o/s Library Islington,Free Standing Units - Digital,51.526431,-0.104536,175849,EC1V 4NB,129470.0
+0,St John Street j/c Whisken Street Islington,Free Standing Units - Digital,51.527264,-0.104285,175850,EC1V 4PB,129471.0
+0,Upper Street Adj Council Offices Islington,Free Standing Units - Digital,51.544276,-0.103622,175851,N1 1XR,129472.0
+0,No 8 Seven Sisters 618 Seven Sisters Road London,Pubs & Bars - Digital,51.578259,-0.082001,175963,N15 6JH,129554.0
+0,Tottenham Court Road opp Dominion Theatre Westminster,Phoneboxes - Digital,51.516562,-0.130497,175979,W1D 1AL,129568.0
+0,93-107 Shaftsbury Avenue o/s Bank of China Westminster,Phoneboxes - Digital,51.512738,-0.13047,175980,W1D 5DA,129569.0
+0,James Street leading to St Christophers Place Westminster,Phoneboxes - Digital,51.515198,-0.15072,175981,W1D 2LR,129570.0
+0,North Audley Street opposite Selfridges Westminster,Phoneboxes - Digital,51.513616,-0.153509,175982,W1C 2PT,129571.0
+0,Portman Street Junction 508-520 Oxford Street Westminster,Phoneboxes - Digital,51.513989,-0.157241,175983,W1H 7PR,129572.0
+0,286 Harrow Road Westminster,Phoneboxes - Digital,51.520882,-0.191587,175984,W2 5ES,129573.0
+0,123-151 Buckingham Palace Road o/s Victoria Place Westminster,Phoneboxes - Digital,51.493047,-0.146503,175986,SW1W 9SH,129575.0
+0,157-197 Buckingham Palace Road Westminster,Phoneboxes - Digital,51.491672,-0.148244,175987,SW1W 9SP,129576.0
+0,57 Edgware Road Westminster,Phoneboxes - Digital,51.515406,-0.163857,175989,W2 2HZ,129578.0
+0,John Princes Street Junction 240 Oxford Street Westminster,Phoneboxes - Digital,51.51532,-0.143005,175990,W1C 1DH,129579.0
+0,306 Edgware Road o/s Edgware Road Station Westminster,Phoneboxes - Digital,51.520591,-0.170524,175991,W2 1DY,129580.0
+0,194 Edgware Road junction Old Marylebone Road Westminster,Phoneboxes - Digital,51.517673,-0.16623,175992,W2 2DS,129581.0
+0,1 London Street Westminster,Phoneboxes - Digital,51.515559,-0.17479,175993,W2 1HR,129582.0
+0,86-88 Edgware Road o/s Tesco Westminster,Phoneboxes - Digital,51.514067,-0.16737,175994,W2 2AE,129583.0
+0,258 Edgware Road o/s Marks and Spencer Westminster,Phoneboxes - Digital,51.515102,-0.163119,175995,W2 1DU,129584.0
+0,54 Edgware Road Westminster,Phoneboxes - Digital,51.514637,-0.161841,175996,W2 2EH,129585.0
+0,4-8 Victoria Street Buckingham Palace Approach Westminster,Phoneboxes - Digital,51.49859,-0.131438,175997,SW1H 0NJ,129586.0
+0,GLOBE ROAD 20M S/O & OPP ALDERLEY ROAD 50M N/O MILE END ROAD,Bus Shelters,51.522547,-0.047036,176078,E1 4DU,129666.0
+0,GLOBE ROAD 20M S/O & OPP ALDERLEY ROAD 50M N/O MILE END ROAD,Bus Shelters,51.522547,-0.047036,176079,E1 4DU,129666.0
+0,Blue Post 6 Bennet Street Saint Jame''s London,Pubs & Bars - Digital,51.50695,-0.140305,176084,SW1A 1RP,129674.0
+0,Prince of Wales 51 St Georges Road Lambeth,Pubs & Bars - Digital,51.495795,-0.104669,176202,SE1 6ER,129758.0
+0,Dickens Tavern 25 London Street London,Pubs & Bars - Digital,51.515733,-0.174466,176266,W2 1HH,129811.0
+0,Green Man 283 Euston London,Pubs & Bars - Digital,51.523623,-0.143171,176268,NW1 3AU,129813.0
+0,Lamb &amp Flag 24 James Street London,Pubs & Bars - Digital,51.514853,-0.150432,176269,W1U 1EL,129814.0
+0,Plumbers Arms 14 Lower Belgrvia Street London,Pubs & Bars - Digital,51.496819,-0.147906,176270,SW1W 0LN,129815.0
+0,Shakespeares Head 29 Great Marlborough Street London,Pubs & Bars - Digital,51.513603,-0.139587,176271,W1F 7HZ,129816.0
+0,Victoria 1 Lower Belgrave Street London,Pubs & Bars - Digital,51.495553,-0.146301,176273,SW1W 0NR,129818.0
+0,"Escape Bar 2 Lidlington Place, Regents Park London",Pubs & Bars - Digital,51.532588,-0.137457,176274,NW1 2JU,129819.0
+0,o/s 71 Stoke Newington HIgh Street Hackney,Phoneboxes - Digital,51.559142,-0.074423,176283,N16 8EL,129821.0
+0,o/s 49 High Street Hackney,Phoneboxes - Digital,51.559142,-0.074423,176284,N16 8EL,129822.0
+0,o/s 77-79 Kingsland High Street Hackney,Phoneboxes - Digital,51.549413,-0.075555,176286,E8 2PB,129824.0
+0,o/s 27 Upper Clapton Road Hackney,Phoneboxes - Digital,51.561916,-0.057757,176287,E5 8AY,129825.0
+0,o/s 63-65 Amhurst Road Hackney,Phoneboxes - Digital,51.547891,-0.057432,176288,E8 1LL,129826.0
+0,o/s 204 Mare Street Hackney,Phoneboxes - Digital,51.541798,-0.055528,176289,E8 3RD,129827.0
+0,Stamford Hill jnc Amhurst Road Hackney,Phoneboxes - Digital,51.574054,-0.072913,176290,N16 5LG,129828.0
+0,o/s 1 Upper Clapton Road jnc Northwold Road Hackney,Phoneboxes - Digital,51.564213,-0.059102,176291,E5 9JZ,129829.0
+0,o/s 205 Morning Lane Hackney,Phoneboxes - Digital,51.546732,-0.046693,176292,E9 6LG,129830.0
+0,o/s 13 Stoke Newington Road Hackney,Phoneboxes - Digital,51.55084,-0.075394,176293,N16 8BH,129831.0
+0,Duke of York 8 Dering Street London,Pubs & Bars - Digital,51.512276,-0.143849,176304,W1S 1NT,129843.0
+0,Imperial Soho 5 Leicester Street London,Pubs & Bars - Digital,51.51104,-0.131102,176306,WC2H 7BL,129845.0
+0,Rising Sun 46 Tottenham Court Road London,Pubs & Bars - Digital,51.519141,-0.133321,176309,W1T 2ED,129848.0
+0,Royal George 8-14 Eversholt Street London,Pubs & Bars - Digital,51.52824,-0.131508,176310,NW1 1DG,129849.0
+0,Spread Eagle 8 Woodstock Street London,Pubs & Bars - Digital,51.514302,-0.147428,176311,W1C 2AD,129850.0
+0,"Billingsgate Ra, 39m S/O Opp Ent To Billingsgate Mkt",Bus Shelters,51.506132,-0.010473,176312,E14 5SE,122984.0
+0,"Billingsgate Ra, 39m S/O Opp Ent To Billingsgate Mkt",Bus Shelters,51.506132,-0.010473,176313,E14 5SE,122984.0
+0,Whelans 11 Rotherhithe Old Road London,Pubs & Bars - Digital,51.492788,-0.047458,176366,SE16 2PP,129882.0
+0,Cock Tavern 23 Phoenix Road London,Pubs & Bars - Digital,51.531106,-0.131318,176367,NW1 1HB,129883.0
+0,WHITEHORSE LANE RECTORY SQUARE  21 M S/O STEPNEY GREEN 35 M N/O L/S W/59/02 TOWER HAMLETS,Bus Shelters,51.521683,-0.045358,176395,E1 3NE,129905.0
+0,WHITEHORSE LANE RECTORY SQUARE  21 M S/O STEPNEY GREEN 35 M N/O L/S W/59/02 TOWER HAMLETS,Bus Shelters,51.521683,-0.045358,176396,E1 3NE,129905.0
+0,"The Nott 257 Wandsworth Road, Wandsworth London",Pubs & Bars - Digital,51.478636,-0.128683,176566,SW8 2NB,130010.0
+0,Hole in the Wall 5 Mepham Street Lamberth London,Pubs & Bars - Digital,51.503594,-0.113136,176567,SE1 8SQ,130011.0
+0,BURDETT ROAD WENTWORTH MEWS 75 M S/O & OPP  EAST LONDON TABANACLE BAPTIST CHURCH TOWER HAMLETS,Bus Shelters,51.523724,-0.034545,176712,E3 4TU,130088.0
+0,BURDETT ROAD WENTWORTH MEWS 75 M S/O & OPP  EAST LONDON TABANACLE BAPTIST CHURCH TOWER HAMLETS,Bus Shelters,51.523724,-0.034545,176713,E3 4TU,130088.0
+0,"Gillender St Jct Navigation Rd, Bromley By Bow",Billboards,51.521531,-0.01009,176755,E3 3JX,130125.0
+0,"Hoop and Toy 34 Thurloe Pl, Kensington London",Pubs & Bars - Digital,51.494692,-0.17401,176785,SW7 2HQ,130150.0
+0,Nags Head Camberwell Road London,Pubs & Bars - Digital,51.476725,-0.094314,176786,SE5 0DP,130151.0
+0,The Old Dispensary 325 Camberwell New Road London,Pubs & Bars - Digital,51.475385,-0.095983,176796,SE5 0TF,130156.0
+0,Seven Sisters Road Seven Sisters Road Outside 383-,Free Standing Units - Digital,51.577373,-0.083958,176973,N15 6SP,130264.0
+0,Seven Sisters Road Seven Sisters Road Outside 383-,Free Standing Units - Digital,51.577373,-0.083958,176974,N15 6SP,130264.0
+0,Seven Sisters Road Seven Sisters Road (Opposite 53,Free Standing Units - Digital,51.57885,-0.080201,176975,N15 6NP,130265.0
+0,Seven Sisters Road Seven Sisters Road (Opposite 53,Free Standing Units - Digital,51.57885,-0.080201,176976,N15 6NP,130265.0
+0,Seven Sisters Road Seven Sisters Road (Opposite 62,Free Standing Units - Digital,51.580889,-0.077878,176977,N15 5LY,130266.0
+0,Seven Sisters Road Seven Sisters Road (Opposite 62,Free Standing Units - Digital,51.580889,-0.077878,176978,N15 5LY,130266.0
+0,New Moon 88 Gracechurch Street  Whitechaple London,Pubs & Bars - Digital,51.511521,-0.085656,177013,EC3 V0D,130284.0
+0,Good Intent 24 East Street  Walworth London,Pubs & Bars - Digital,51.487914,-0.093919,177043,SE17 2DN,130302.0
+0,107 Burdett Road Tower Hamlets,Premium Billboards - Digital,51.521398,-0.033131,177147,E3 4JN,130392.0
+0,Leinster Arms 17 Leinster Terrace Bayswater,Pubs & Bars - Digital,51.51161,-0.182831,177171,W2 3EU,130417.0
+0,Whittington Stone 53 Highgate Hill Highgate,Pubs & Bars - Digital,51.567393,-0.138777,177182,N19 5NE,130428.0
+0,Famous Cock Tavern 259 Upper Street Islington,Pubs & Bars - Digital,51.545219,-0.103525,177183,N1 1RU,130429.0
+0,Fox on the Green 1 Islington Green Islington,Pubs & Bars - Digital,51.536426,-0.102506,177184,N1 2XH,130430.0
+0,Vineyard Islington 179 Upper Street Islington,Pubs & Bars - Digital,51.54131,-0.103139,177185,N1 1RG,130431.0
+0,Alice 133 Houndsditch London,Pubs & Bars - Digital,51.515122,-0.078241,177193,EC3A 7BX,130439.0
+0,Argyle 1 Greville Street London,Pubs & Bars - Digital,51.519103,-0.108502,177194,EC1N 8PQ,130440.0
+0,Bucks Head 202 Camden High Street London,Pubs & Bars - Digital,51.540557,-0.143794,177196,NW1 8QR,130442.0
+0,Cheshire Cheese 48 Crutched Friars London,Pubs & Bars - Digital,51.511262,-0.078648,177198,EC3N 2AP,130444.0
+0,College Arms 18 Store Street London,Pubs & Bars - Digital,51.519884,-0.131922,177199,WC1E 7DH,130445.0
+0,Comedy 7 Oxendon Street London,Pubs & Bars - Digital,51.510098,-0.132365,177207,SW1Y 4EE,130453.0
+0,Comptons 51-53 Old Compton Street London,Pubs & Bars - Digital,51.512511,-0.132569,177208,W1D 6HN,130454.0
+0,Crutched Friar 39-41 Crutched Friars London,Pubs & Bars - Digital,51.511255,-0.078764,177209,EC3N 2AE,130455.0
+0,Duke Of Somerset 15 Little Somerset Street London,Pubs & Bars - Digital,51.513864,-0.07446,177210,E1 8AH,130456.0
+0,Editor''s Tap 5?11 Fetter Lane London,Pubs & Bars - Digital,51.514722,-0.109505,177211,EC4A 1BR,130457.0
+0,Henry''s Cafe Bar Piccadilly 80 Piccadilly London,Pubs & Bars - Digital,51.506683,-0.14327,177215,W1J 8HX,130461.0
+0,Kings Arms London 23 Poland Street London,Pubs & Bars - Digital,51.51512,-0.137147,177221,W1F 8QJ,130465.0
+0,Minories 64-73 Minories London,Pubs & Bars - Digital,51.510235,-0.074671,177222,EC3N 1JL,130466.0
+0,St James Tavern 45 Great Windmill Street London,Pubs & Bars - Digital,51.510873,-0.134193,177223,W1D 7NE,130467.0
+0,Steam Passage 44/45 Upper Street Islington,Pubs & Bars - Digital,51.534759,-0.105113,177224,N1 0PN,130468.0
+0,White Cross Tap 142-146 Whitecross Street London,Pubs & Bars - Digital,51.523957,-0.093351,177225,EC1Y 8QJ,130469.0
+0,Sports Bar & Grill 174-180 Old Street London,Pubs & Bars - Digital,51.525115,-0.090449,177227,EC1V 9BP,130471.0
+0,The Abbey Tap 12 - 14 The Broadway Stratford,Pubs & Bars - Digital,51.540427,0.000339,177235,E15 4QS,130482.0
+0,Sportsman (Goose at Stratford) 78-102 Broadway Stratford,Pubs & Bars - Digital,51.541623,0.00192,177236,E15 1NG,130483.0
+0,"Angelic Islington 57 Liverpool Road, Islington Islington",Pubs & Bars - Digital,51.534733,-0.107392,177247,N1 0RJ,130494.0
+0,"Sports Bar &amp Grill Canary Wharf Crossrail Station &amp Retail Mall, 1 Crossrail Pl Canary Wharf",Pubs & Bars - Digital,51.50613,-0.018269,177248,E14 5AR,130495.0
+0,"Sports Bar &amp Grill Farringdon 19-25 Cowcross St, Clerkenwell Clerkenwell",Pubs & Bars - Digital,51.520204,-0.103699,177249,EC1M 6DQ,130496.0
+0,"Sports Bar &amp Grill Marylebone Melcombe Pl, Marylebone Marylebone",Pubs & Bars - Digital,51.523036,-0.162988,177250,NW1 6JJ,130497.0
+0,"Sports Bar &amp Grill Waterloo Unit 1 The Balcony, Waterloo Railway Station Waterloo",Pubs & Bars - Digital,51.501056,-0.116929,177252,SE1 7NY,130499.0
+0,The Greyhound 136 West Ham Lane London,Pubs & Bars - Digital,51.537486,0.005632,177254,E15 4PT,130560.0
+0,Commercial St Fashion St 24m N/O Christchurch Gdns,Bus Shelters,51.518648,-0.074313,177256,E1 6LT,130563.0
+0,Commercial St Fashion St 24m N/O Christchurch Gdns,Bus Shelters,51.518648,-0.074313,177257,E1 6LT,130563.0
+0,Duke of Wellington 77 Wardour Street City of Westminster,Pubs & Bars - Digital,51.512252,-0.133243,177262,W1D 6QA,130569.0
+0,Village 81 Wardour Street Soho London,Pubs & Bars - Digital,51.513694,-0.134167,177375,WID 6QD,130669.0
+0,Marsh Wall Lord Armory Way opp 225 Angel House Tower Hamlets,Bus Shelters - Digital,51.49914,-0.012838,177503,E14 9TS,123139.0
+0,Marsh Wall Lord Armory Way opp 225 Angel House Tower Hamlets,Bus Shelters - Digital,51.49914,-0.012838,177504,E14 9TS,123139.0
+0,Earl Of Camden 55 Parkway Camden,Pubs & Bars - Digital,51.538135,-0.144181,177706,NW1 7PN,130890.0
+0,Tank &amp Paddle Minster 3 Mincing Lane Cityof London,Pubs & Bars - Digital,51.510934,-0.081155,177710,EC3R 7AA,130894.0
+0,The Long Acre London 1 Upper Street / Martins Lane London,Pubs & Bars - Digital,51.512211,-0.127321,177737,WC2H 9NY,130921.0
+0,The Warwick 1-3 Warwick Street London,Pubs & Bars - Digital,51.510662,-0.1373,179331,W1B 5LR,131238.0
+0,Tank  And  Paddle  Bishopsgate 201  Bishopsgate London,Pubs & Bars - Digital,51.520588,-0.07925,179417,EC2M 3AB,131277.0
